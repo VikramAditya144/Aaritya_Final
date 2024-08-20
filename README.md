@@ -54,5 +54,7 @@ This quiz application is a part of an assignment for Aaritya, built using Flutte
    flutter pub get
    flutter run
 
+### Demo Video
+https://www.loom.com/share/40b4d690870946beb63565a9665e0355
 
 
